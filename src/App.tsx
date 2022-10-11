@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>and more and more</p>
+        <h2>this is a title man</h2>
       </header>
     </div>
   );
