@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>This is a h2 title</h2>
+        <p>this is a paragraph</p>
       </header>
     </div>
   );
